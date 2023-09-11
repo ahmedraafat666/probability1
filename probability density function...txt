@@ -1,0 +1,17 @@
+probability density function : 
+
+are used to describe distributions like continuous uniform distribution, normal distribution, Student t distribution. The probability density function gives the probability that the value of a random variable will fall between a range of values. A cumulative distribution function and the probability density function are used to describe a continuous distribution.
+
+
+Types of Probability Density Function :
+
+
+1. Normal Distribution
+
+2. Standard Normal Distribution
+
+3. Student - t Distribution
+
+4. Chi-Square Distribution
+
+5. Continuous Uniform Distribution

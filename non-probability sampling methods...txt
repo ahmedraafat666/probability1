@@ -1,0 +1,25 @@
+non-probability sampling methhods : 
+
+a method of selecting units from a population using a subjective method
+
+
+1. convenience sampling : 
+
+is a non-probability sampling technique where samples are selected from the population only because they are conveniently available to the researcher. Researchers choose these samples just because they are easy to recruit, and the researcher did not consider selecting a sample that represents the entire population.
+Ideally, in research, it is good to test a sample that represents the population. But, in some research, the population is too large to examine and consider the entire population. It is one of the reasons why researchers rely on convenience sampling, which is the most common non-probability sampling method, because of its speed, cost-effectiveness, and ease of availability of the sample.
+
+
+
+2. judgmental or purpsive sampling : 
+
+researchers select the samples based purely on the researcher’s knowledge and credibility. In other words, researchers choose only those people who they deem fit to participate in the research study. Judgmental or purposive sampling is not a scientific method of sampling, and the downside to this sampling technique is that the preconceived notions of a researcher can influence the results. Thus, this research technique involves a high amount of ambiguity.
+
+
+
+3. snowball sampling : 
+
+helps researchers find a sample when they are difficult to locate. Researchers use this technique when the sample size is small and not easily available. This sampling system works like the referral program. Once the researchers find suitable subjects, he asks them for assistance to seek similar subjects to form a considerably good size sample.
+
+4. quota sampling :
+
+Hypothetically consider, a researcher wants to study the career goals of male and female employees in an organization. There are 500 employees in the organization, also known as the population. To understand better about a population, the researcher will need only a sample, not the entire population. Further, the researcher is interested in particular strata within the population. Here is where quota sampling helps in dividing the population into strata or groups.

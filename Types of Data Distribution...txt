@@ -1,0 +1,48 @@
+Types of Data Distribution : 
+
+1. Continuous data.
+2. Discrete data.
+
+
+
+Continuous data : Continuous data is a type of information that can range from one extreme to another, usually measured on a scale such as temperature or weight. It can also be presented in the form of a histogram which allows for easier comparison and understanding between different sets of data. With Continuous Data, you are able to gain insights into trends and relationships that might not ordinarily be seen with other types of datasets.
+
+---------------------------------------------------------------------------
+
+Discrete data : Discrete data has a limited set of values and ranges, such as countable elements like the student population in a classroom or cars passing through an intersection. Representing this kind of information with bar graphs allows for quick understanding at-a-glance!
+
+Prior to utilising statistical tools, it is essential that you comprehend the kind of data at your disposal as the tools accessible are contingent on your type of data. Knowing this detail first will enable you to make an informed decision and utilise the most appropriate tool for successful results.
+
+
+---------------------------------------------------------------------------
+
+Discrete Distribution Types :
+
+1. Binomial distribution
+
+2. Poisson distribution
+
+3. Hypergeometric distribution
+
+4. Geometric distribution
+
+
+---------------------------------------------------------------------------
+
+Continuous Distribution Types :
+
+1. Normal Distribution
+
+2. Lognormal distribution
+
+3. F distribution
+
+4. Chi-Square distribution
+
+5. Exponential distribution
+
+6. T Student distribution
+
+7. Weibull Distribution
+
+8. Non-normal distributions
